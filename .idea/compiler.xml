@@ -25,8 +25,8 @@
         <module name="springtest" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="springtest" target="1.5" />
+    <bytecodeTargetLevel target="1.6">
+      <module name="springtest" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
